@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Big tings are going down in the city");
 		System.out.println("69"); 
 		System.out.println("Jack you suck at ctrl + space");
+		System.out.println("Congratulations is not a terrible song.");
 		System.out.println("Jack");
 	}
 }
