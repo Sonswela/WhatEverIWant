@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("DO YOU KNOW DA WAE?");
 
 		System.out.println("Big tings are going down in the city");
+		System.out.println("69"); 
 	}
 }
